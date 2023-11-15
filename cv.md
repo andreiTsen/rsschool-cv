@@ -32,8 +32,7 @@ University of Bialystok
 ### My projects: CV 
 
 
-### My photo:
-![Myphoto](C:/WORK/LearningProjects/pictures2/rys.png)
+### My photo
 
 
 
